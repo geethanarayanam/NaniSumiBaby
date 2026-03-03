@@ -101,12 +101,8 @@
 
     <div class="reveal-page">
         <div class="baby-announcement" id="revealBox">
-            <img src="https://via.placeholder.com/500x500.png?text=Baby+Boy+Image+Here" class="baby-img" id="finalImage">
-            <h1 class="telugu-text">మా కన్నయ్య కి స్వాగతం</h1>
-        </div>
-    </div>
-
-    <script>
+            <img src="https://via.placeholder.com/500x500.png?text=Baby+Boy+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/40da3469-edee-4a6f-b315-a3b3491866e4" />+Here" class="baby-img" id="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/8911c37b-330c-4a4a-8e5d-b5e1657819de" />"><h1 class="telugu-text">మా కన్నయ్య కి స్వాగతం</h1>
+        </div><script>
         const btn = document.getElementById('revealBtn');
         const lCurtain = document.getElementById('lCurtain');
         const rCurtain = document.getElementById('rCurtain');
